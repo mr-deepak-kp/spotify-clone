@@ -1,12 +1,14 @@
 # 🎵 Spotify Clone
 
-A simple **Spotify Clone** built using **HTML, CSS, and JavaScript**.  
-This project is created for learning purposes and replicates the basic design and functionality of Spotify Web Player.
+A simple **Spotify Clone** built using **HTML, CSS**.  
+This project is created for learning purposes and replicates the basic design of Spotify Web Player.
 
 ---
 
-## 📸 Screenshots
-![Alt Text](assets/screenshot1.png)
+🌐 Live Demo
+👉 Click here to view : https://mr-deepak-kp.github.io/spotify-clone/
+
+---
 
 ## 🚀 Features
 - 🎶 Music Player UI similar to Spotify  
@@ -31,10 +33,6 @@ This project is created for learning purposes and replicates the basic design an
 ┣ 📜 script.js # Functionality (if added)
 ┗ 📜 README.md # Project documentation
 
----
-
-🌐 Live Demo
-👉 Click here to view : https://mr-deepak-kp.github.io/spotify-clone/
 ---
 
 📌 Future Enhancements
